@@ -16,3 +16,6 @@ __pycache__/
 /src/models/
 /stats
 *.json
+*.qpy
+*.csv
+CLAUDE.md
